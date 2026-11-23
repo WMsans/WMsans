@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <b>I build games!</b><br>
-  CS @ UC Irvine · voxels, falling sand, shaders, and whatever breaks next
+  <b>I make games!</b><br>
+  CS @ UC Irvine · i love godot engine
 </p>
 
 <p align="center">
