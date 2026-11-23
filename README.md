@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Jeremy Zhao's name forming from falling sand above desert dunes at dusk, with the tagline Games + Engines + Simulations">
+  <img src="assets/hero.svg" width="100%" alt="Jeremy Zhao's name forming from falling sand above desert dunes at dusk, with the tagline I make games and simulations">
 </p>
 
 <p align="center">
@@ -30,16 +30,16 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/WMsans/RayTraceVoxel"><img src="assets/raytracevoxel.jpg" alt="Voxel oak trees lit by volumetric god rays in RayTraceVoxel"></a>
-      <h3><a href="https://github.com/WMsans/RayTraceVoxel">RayTraceVoxel</a></h3>
-      A compute-shader voxel engine that generates worlds on the GPU and supports editing with structural integrity.
-      <br><br><code>C#</code> <code>Unity</code> <code>Compute shaders</code>
+      <a href="https://github.com/WMsans/dk-voxel-engine"><img src="assets/dk-voxel-engine.jpg" alt="Cel-shaded tree and brick tower on a grassy voxel island in DK Voxel Engine"></a>
+      <h3><a href="https://github.com/WMsans/dk-voxel-engine">DK Voxel Engine</a></h3>
+      A destructible voxel terrain engine for Godot 4 with dual-contoured meshing, octree LOD, multithreaded chunk updates, and a cel-shaded demo.
+      <br><br><code>C++</code> <code>Godot</code> <code>Voxels</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/WMsans/Nuclear-Kong"><img src="assets/nuclear-kong.jpg" alt="The player facing a boss in a dim industrial level in Nuclear-Kong"></a>
-      <h3><a href="https://github.com/WMsans/Nuclear-Kong">Nuclear-Kong</a></h3>
-      A pixel-art arcade game with a boss fight, built and shipped in a single session for a game-jam lightning round.
-      <br><br><code>C#</code> <code>Unity</code> <code>Game jam</code>
+      <a href="https://github.com/WMsans/biu"><img src="assets/biu.jpg" alt="The player beside stacked crates in a glowing stone puzzle room in biu"></a>
+      <h3><a href="https://github.com/WMsans/biu">biu</a></h3>
+      A Sokoban-inspired puzzle game where explosions are how you move: blast open paths, launch across gaps, and push blocks.
+      <br><br><code>GDScript</code> <code>Godot</code> <code>Puzzle</code>
     </td>
   </tr>
 </table>
@@ -49,7 +49,6 @@
 | Project | What it is | Built with |
 |---|---|---|
 | [Falling-Sand Engine](https://github.com/WMsans/noita-engine) | Pixel-world simulation with materials, reactions, and rigid bodies | C++, Godot |
-| [biu](https://github.com/WMsans/biu) | Sokoban-inspired puzzle game where explosions are how you move | Godot, C# |
 | [OpenPix](https://github.com/WMsans/openpix) | Linux screenshot tool with on-device OCR, scroll capture, and annotation | C++17, Qt6, Wayland |
 | [my-editor](https://github.com/WMsans/my-editor) | Serverless peer-to-peer collaborative editor with a plugin system | Tauri, React, Yjs, libp2p |
 | [DevLog Generator](https://github.com/WMsans/DevLogGenerator) | Turns a project's git history into narrated devlog videos | Python, local LLM |
