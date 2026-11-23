@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>I build games and the engines underneath them.</b><br>
+  <b>I build games!</b><br>
   CS @ UC Irvine · voxels, falling sand, shaders, and whatever breaks next
 </p>
 
